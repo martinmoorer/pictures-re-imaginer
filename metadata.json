@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Magic",
+  "description": "An application that acts as a creative partner for photo editing. Users upload a photo, provide an editing prompt, and the AI generates a new, re-imagined version of the image based on the original and the user's creative direction.",
+  "requestFramePermissions": []
+}
